@@ -1,0 +1,17 @@
+export const titles = [
+  "CEO",
+  "VP Marketing/Sales",
+  "Sales",
+  "VP Engineering",
+  "Manufacturing",
+  "Marketing",
+  "Sales Rep",
+  "Project Mgr",
+  "Events Mgr",
+  "Engineering",
+  "Process",
+  "Software",
+  "Testing",
+  "Hardware",
+  "Quality",
+];

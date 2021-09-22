@@ -7,7 +7,6 @@ export default function EmployeeCard({
   deleteEmployee,
   colorIndex,
 }) {
-  console.log("=======color card border======", colorIndex);
   return (
     <div
       className="card card-dimensions position-relative"

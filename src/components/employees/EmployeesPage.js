@@ -8,7 +8,12 @@ import {
 } from "../../redux/actions/employeeActions";
 import EmployeeHierarchy from "./EmployeeHierarchy";
 
-function EmployeesPage({ employees, loadEmployees, deleteEmployee, ...props }) {
+export function EmployeesPage({
+  employees,
+  loadEmployees,
+  deleteEmployee,
+  ...props
+}) {
   useEffect(() => {
     if (employees.length === 0)
       loadEmployees().then(() =>

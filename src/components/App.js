@@ -8,7 +8,6 @@ import PromoteEmployee from "./employees/PromoteEmployee";
 export default function App() {
   return (
     <>
-      {" "}
       <ToastContainer autoClose={3000} hideProgressBar />
       <ToastContainer />
       <Switch>

@@ -1,0 +1,1170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`To check the rendered tree Hierarchy 1`] = `
+<div>
+  <div
+    className="align-items-center d-flex flex-column p-2  m-1 border"
+  >
+    <div
+      className="card card-dimensions position-relative"
+      style={
+        Object {
+          "borderColor": "blue",
+          "borderWidth": "0.125rem",
+        }
+      }
+    >
+      <div
+        className="card-body"
+        onClick={[Function]}
+        style={
+          Object {
+            "cursor": "pointer",
+          }
+        }
+      >
+        <h5
+          className="card-title text-truncate"
+        >
+          Stella Payne Diaz
+        </h5>
+        <h6
+          className="card-subtitle mb-2 text-muted text-truncate"
+        >
+          Title: 
+          CEO
+        </h6>
+        <p
+          className="m-0"
+        >
+           ID: 
+          1
+           
+        </p>
+        <div
+          className="position-absolute top-0 btn m-0 p-0"
+          onClick={[Function]}
+          style={
+            Object {
+              "right": "0px",
+            }
+          }
+        >
+           
+          <svg
+            className="bi bi-x"
+            fill="currentColor"
+            height="16"
+            viewBox="0 0 16 16"
+            width="16"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div
+      className="d-flex mt-4"
+    >
+      <div
+        className="align-items-center d-flex flex-column  m-1 p-2 border"
+      >
+        <div
+          className="card card-dimensions position-relative"
+          style={
+            Object {
+              "borderColor": "red",
+              "borderWidth": "0.125rem",
+            }
+          }
+        >
+          <div
+            className="card-body"
+            onClick={[Function]}
+            style={
+              Object {
+                "cursor": "pointer",
+              }
+            }
+          >
+            <h5
+              className="card-title text-truncate"
+            >
+              Luke Warm
+            </h5>
+            <h6
+              className="card-subtitle mb-2 text-muted text-truncate"
+            >
+              Title: 
+              VP Marketing/Sales
+            </h6>
+            <p
+              className="m-0"
+            >
+               ID: 
+              2
+               
+            </p>
+            <div
+              className="position-absolute top-0 btn m-0 p-0"
+              onClick={[Function]}
+              style={
+                Object {
+                  "right": "0px",
+                }
+              }
+            >
+               
+              <svg
+                className="bi bi-x"
+                fill="currentColor"
+                height="16"
+                viewBox="0 0 16 16"
+                width="16"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          className="d-flex mt-4"
+        >
+          <div
+            className="align-items-center d-flex flex-column  m-1 p-2 border"
+          >
+            <div
+              className="card card-dimensions position-relative"
+              style={
+                Object {
+                  "borderColor": "green",
+                  "borderWidth": "0.125rem",
+                }
+              }
+            >
+              <div
+                className="card-body"
+                onClick={[Function]}
+                style={
+                  Object {
+                    "cursor": "pointer",
+                  }
+                }
+              >
+                <h5
+                  className="card-title text-truncate"
+                >
+                  Meg Meehan Hoffa
+                </h5>
+                <h6
+                  className="card-subtitle mb-2 text-muted text-truncate"
+                >
+                  Title: 
+                  Sales
+                </h6>
+                <p
+                  className="m-0"
+                >
+                   ID: 
+                  3
+                   
+                </p>
+                <div
+                  className="position-absolute top-0 btn m-0 p-0"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "right": "0px",
+                    }
+                  }
+                >
+                   
+                  <svg
+                    className="bi bi-x"
+                    fill="currentColor"
+                    height="16"
+                    viewBox="0 0 16 16"
+                    width="16"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div
+              className="d-flex mt-4"
+            >
+              <div
+                className="align-items-center d-flex flex-column  m-1 p-2 border"
+              >
+                <div
+                  className="card card-dimensions position-relative"
+                  style={
+                    Object {
+                      "borderColor": "pink",
+                      "borderWidth": "0.125rem",
+                    }
+                  }
+                >
+                  <div
+                    className="card-body"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "cursor": "pointer",
+                      }
+                    }
+                  >
+                    <h5
+                      className="card-title text-truncate"
+                    >
+                      Dot Stubadd
+                    </h5>
+                    <h6
+                      className="card-subtitle mb-2 text-muted text-truncate"
+                    >
+                      Title: 
+                      Sales Rep
+                    </h6>
+                    <p
+                      className="m-0"
+                    >
+                       ID: 
+                      7
+                       
+                    </p>
+                    <div
+                      className="position-absolute top-0 btn m-0 p-0"
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "right": "0px",
+                        }
+                      }
+                    >
+                       
+                      <svg
+                        className="bi bi-x"
+                        fill="currentColor"
+                        height="16"
+                        viewBox="0 0 16 16"
+                        width="16"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="d-flex mt-4"
+                />
+              </div>
+              <div
+                className="align-items-center d-flex flex-column  m-1 p-2 border"
+              >
+                <div
+                  className="card card-dimensions position-relative"
+                  style={
+                    Object {
+                      "borderColor": "pink",
+                      "borderWidth": "0.125rem",
+                    }
+                  }
+                >
+                  <div
+                    className="card-body"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "cursor": "pointer",
+                      }
+                    }
+                  >
+                    <h5
+                      className="card-title text-truncate"
+                    >
+                      Lotta B. Essen
+                    </h5>
+                    <h6
+                      className="card-subtitle mb-2 text-muted text-truncate"
+                    >
+                      Title: 
+                      Sales Rep
+                    </h6>
+                    <p
+                      className="m-0"
+                    >
+                       ID: 
+                      16
+                       
+                    </p>
+                    <div
+                      className="position-absolute top-0 btn m-0 p-0"
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "right": "0px",
+                        }
+                      }
+                    >
+                       
+                      <svg
+                        className="bi bi-x"
+                        fill="currentColor"
+                        height="16"
+                        viewBox="0 0 16 16"
+                        width="16"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="d-flex mt-4"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            className="align-items-center d-flex flex-column  m-1 p-2 border"
+          >
+            <div
+              className="card card-dimensions position-relative"
+              style={
+                Object {
+                  "borderColor": "green",
+                  "borderWidth": "0.125rem",
+                }
+              }
+            >
+              <div
+                className="card-body"
+                onClick={[Function]}
+                style={
+                  Object {
+                    "cursor": "pointer",
+                  }
+                }
+              >
+                <h5
+                  className="card-title text-truncate"
+                >
+                  Al Ligori
+                </h5>
+                <h6
+                  className="card-subtitle mb-2 text-muted text-truncate"
+                >
+                  Title: 
+                  Marketing
+                </h6>
+                <p
+                  className="m-0"
+                >
+                   ID: 
+                  6
+                   
+                </p>
+                <div
+                  className="position-absolute top-0 btn m-0 p-0"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "right": "0px",
+                    }
+                  }
+                >
+                   
+                  <svg
+                    className="bi bi-x"
+                    fill="currentColor"
+                    height="16"
+                    viewBox="0 0 16 16"
+                    width="16"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div
+              className="d-flex mt-4"
+            >
+              <div
+                className="align-items-center d-flex flex-column  m-1 p-2 border"
+              >
+                <div
+                  className="card card-dimensions position-relative"
+                  style={
+                    Object {
+                      "borderColor": "pink",
+                      "borderWidth": "0.125rem",
+                    }
+                  }
+                >
+                  <div
+                    className="card-body"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "cursor": "pointer",
+                      }
+                    }
+                  >
+                    <h5
+                      className="card-title text-truncate"
+                    >
+                      April Lynn Parris
+                    </h5>
+                    <h6
+                      className="card-subtitle mb-2 text-muted text-truncate"
+                    >
+                      Title: 
+                      Events Mgr
+                    </h6>
+                    <p
+                      className="m-0"
+                    >
+                       ID: 
+                      9
+                       
+                    </p>
+                    <div
+                      className="position-absolute top-0 btn m-0 p-0"
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "right": "0px",
+                        }
+                      }
+                    >
+                       
+                      <svg
+                        className="bi bi-x"
+                        fill="currentColor"
+                        height="16"
+                        viewBox="0 0 16 16"
+                        width="16"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="d-flex mt-4"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="align-items-center d-flex flex-column  m-1 p-2 border"
+      >
+        <div
+          className="card card-dimensions position-relative"
+          style={
+            Object {
+              "borderColor": "red",
+              "borderWidth": "0.125rem",
+            }
+          }
+        >
+          <div
+            className="card-body"
+            onClick={[Function]}
+            style={
+              Object {
+                "cursor": "pointer",
+              }
+            }
+          >
+            <h5
+              className="card-title text-truncate"
+            >
+              Peggy Flaming
+            </h5>
+            <h6
+              className="card-subtitle mb-2 text-muted text-truncate"
+            >
+              Title: 
+              VP Engineering
+            </h6>
+            <p
+              className="m-0"
+            >
+               ID: 
+              4
+               
+            </p>
+            <div
+              className="position-absolute top-0 btn m-0 p-0"
+              onClick={[Function]}
+              style={
+                Object {
+                  "right": "0px",
+                }
+              }
+            >
+               
+              <svg
+                className="bi bi-x"
+                fill="currentColor"
+                height="16"
+                viewBox="0 0 16 16"
+                width="16"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          className="d-flex mt-4"
+        >
+          <div
+            className="align-items-center d-flex flex-column  m-1 p-2 border"
+          >
+            <div
+              className="card card-dimensions position-relative"
+              style={
+                Object {
+                  "borderColor": "green",
+                  "borderWidth": "0.125rem",
+                }
+              }
+            >
+              <div
+                className="card-body"
+                onClick={[Function]}
+                style={
+                  Object {
+                    "cursor": "pointer",
+                  }
+                }
+              >
+                <h5
+                  className="card-title text-truncate"
+                >
+                  Saul Wellingood
+                </h5>
+                <h6
+                  className="card-subtitle mb-2 text-muted text-truncate"
+                >
+                  Title: 
+                  Manufacturing
+                </h6>
+                <p
+                  className="m-0"
+                >
+                   ID: 
+                  5
+                   
+                </p>
+                <div
+                  className="position-absolute top-0 btn m-0 p-0"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "right": "0px",
+                    }
+                  }
+                >
+                   
+                  <svg
+                    className="bi bi-x"
+                    fill="currentColor"
+                    height="16"
+                    viewBox="0 0 16 16"
+                    width="16"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div
+              className="d-flex mt-4"
+            >
+              <div
+                className="align-items-center d-flex flex-column  m-1 p-2 border"
+              >
+                <div
+                  className="card card-dimensions position-relative"
+                  style={
+                    Object {
+                      "borderColor": "pink",
+                      "borderWidth": "0.125rem",
+                    }
+                  }
+                >
+                  <div
+                    className="card-body"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "cursor": "pointer",
+                      }
+                    }
+                  >
+                    <h5
+                      className="card-title text-truncate"
+                    >
+                      Les Ismore
+                    </h5>
+                    <h6
+                      className="card-subtitle mb-2 text-muted text-truncate"
+                    >
+                      Title: 
+                      Project Mgr
+                    </h6>
+                    <p
+                      className="m-0"
+                    >
+                       ID: 
+                      8
+                       
+                    </p>
+                    <div
+                      className="position-absolute top-0 btn m-0 p-0"
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "right": "0px",
+                        }
+                      }
+                    >
+                       
+                      <svg
+                        className="bi bi-x"
+                        fill="currentColor"
+                        height="16"
+                        viewBox="0 0 16 16"
+                        width="16"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="d-flex mt-4"
+                />
+              </div>
+              <div
+                className="align-items-center d-flex flex-column  m-1 p-2 border"
+              >
+                <div
+                  className="card card-dimensions position-relative"
+                  style={
+                    Object {
+                      "borderColor": "pink",
+                      "borderWidth": "0.125rem",
+                    }
+                  }
+                >
+                  <div
+                    className="card-body"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "cursor": "pointer",
+                      }
+                    }
+                  >
+                    <h5
+                      className="card-title text-truncate"
+                    >
+                      Anita Hammer
+                    </h5>
+                    <h6
+                      className="card-subtitle mb-2 text-muted text-truncate"
+                    >
+                      Title: 
+                      Process
+                    </h6>
+                    <p
+                      className="m-0"
+                    >
+                       ID: 
+                      11
+                       
+                    </p>
+                    <div
+                      className="position-absolute top-0 btn m-0 p-0"
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "right": "0px",
+                        }
+                      }
+                    >
+                       
+                      <svg
+                        className="bi bi-x"
+                        fill="currentColor"
+                        height="16"
+                        viewBox="0 0 16 16"
+                        width="16"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="d-flex mt-4"
+                />
+              </div>
+              <div
+                className="align-items-center d-flex flex-column  m-1 p-2 border"
+              >
+                <div
+                  className="card card-dimensions position-relative"
+                  style={
+                    Object {
+                      "borderColor": "pink",
+                      "borderWidth": "0.125rem",
+                    }
+                  }
+                >
+                  <div
+                    className="card-body"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "cursor": "pointer",
+                      }
+                    }
+                  >
+                    <h5
+                      className="card-title text-truncate"
+                    >
+                      Evan Elpus
+                    </h5>
+                    <h6
+                      className="card-subtitle mb-2 text-muted text-truncate"
+                    >
+                      Title: 
+                      Quality
+                    </h6>
+                    <p
+                      className="m-0"
+                    >
+                       ID: 
+                      15
+                       
+                    </p>
+                    <div
+                      className="position-absolute top-0 btn m-0 p-0"
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "right": "0px",
+                        }
+                      }
+                    >
+                       
+                      <svg
+                        className="bi bi-x"
+                        fill="currentColor"
+                        height="16"
+                        viewBox="0 0 16 16"
+                        width="16"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="d-flex mt-4"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            className="align-items-center d-flex flex-column  m-1 p-2 border"
+          >
+            <div
+              className="card card-dimensions position-relative"
+              style={
+                Object {
+                  "borderColor": "green",
+                  "borderWidth": "0.125rem",
+                }
+              }
+            >
+              <div
+                className="card-body"
+                onClick={[Function]}
+                style={
+                  Object {
+                    "cursor": "pointer",
+                  }
+                }
+              >
+                <h5
+                  className="card-title text-truncate"
+                >
+                  Xavier Breath
+                </h5>
+                <h6
+                  className="card-subtitle mb-2 text-muted text-truncate"
+                >
+                  Title: 
+                  Engineering
+                </h6>
+                <p
+                  className="m-0"
+                >
+                   ID: 
+                  10
+                   
+                </p>
+                <div
+                  className="position-absolute top-0 btn m-0 p-0"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "right": "0px",
+                    }
+                  }
+                >
+                   
+                  <svg
+                    className="bi bi-x"
+                    fill="currentColor"
+                    height="16"
+                    viewBox="0 0 16 16"
+                    width="16"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div
+              className="d-flex mt-4"
+            >
+              <div
+                className="align-items-center d-flex flex-column  m-1 p-2 border"
+              >
+                <div
+                  className="card card-dimensions position-relative"
+                  style={
+                    Object {
+                      "borderColor": "pink",
+                      "borderWidth": "0.125rem",
+                    }
+                  }
+                >
+                  <div
+                    className="card-body"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "cursor": "pointer",
+                      }
+                    }
+                  >
+                    <h5
+                      className="card-title text-truncate"
+                    >
+                      Billy Aiken
+                    </h5>
+                    <h6
+                      className="card-subtitle mb-2 text-muted text-truncate"
+                    >
+                      Title: 
+                      Software
+                    </h6>
+                    <p
+                      className="m-0"
+                    >
+                       ID: 
+                      12
+                       
+                    </p>
+                    <div
+                      className="position-absolute top-0 btn m-0 p-0"
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "right": "0px",
+                        }
+                      }
+                    >
+                       
+                      <svg
+                        className="bi bi-x"
+                        fill="currentColor"
+                        height="16"
+                        viewBox="0 0 16 16"
+                        width="16"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="d-flex mt-4"
+                />
+              </div>
+              <div
+                className="align-items-center d-flex flex-column  m-1 p-2 border"
+              >
+                <div
+                  className="card card-dimensions position-relative"
+                  style={
+                    Object {
+                      "borderColor": "pink",
+                      "borderWidth": "0.125rem",
+                    }
+                  }
+                >
+                  <div
+                    className="card-body"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "cursor": "pointer",
+                      }
+                    }
+                  >
+                    <h5
+                      className="card-title text-truncate"
+                    >
+                      Stan Wellback
+                    </h5>
+                    <h6
+                      className="card-subtitle mb-2 text-muted text-truncate"
+                    >
+                      Title: 
+                      Testing
+                    </h6>
+                    <p
+                      className="m-0"
+                    >
+                       ID: 
+                      13
+                       
+                    </p>
+                    <div
+                      className="position-absolute top-0 btn m-0 p-0"
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "right": "0px",
+                        }
+                      }
+                    >
+                       
+                      <svg
+                        className="bi bi-x"
+                        fill="currentColor"
+                        height="16"
+                        viewBox="0 0 16 16"
+                        width="16"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="d-flex mt-4"
+                >
+                  <div
+                    className="align-items-center d-flex flex-column  m-1 p-2 border"
+                  >
+                    <div
+                      className="card card-dimensions position-relative"
+                      style={
+                        Object {
+                          "borderColor": "yellow",
+                          "borderWidth": "0.125rem",
+                        }
+                      }
+                    >
+                      <div
+                        className="card-body"
+                        onClick={[Function]}
+                        style={
+                          Object {
+                            "cursor": "pointer",
+                          }
+                        }
+                      >
+                        <h5
+                          className="card-title text-truncate"
+                        >
+                          Gurharmanjit Singh
+                        </h5>
+                        <h6
+                          className="card-subtitle mb-2 text-muted text-truncate"
+                        >
+                          Title: 
+                          Process
+                        </h6>
+                        <p
+                          className="m-0"
+                        >
+                           ID: 
+                          18
+                           
+                        </p>
+                        <div
+                          className="position-absolute top-0 btn m-0 p-0"
+                          onClick={[Function]}
+                          style={
+                            Object {
+                              "right": "0px",
+                            }
+                          }
+                        >
+                           
+                          <svg
+                            className="bi bi-x"
+                            fill="currentColor"
+                            height="16"
+                            viewBox="0 0 16 16"
+                            width="16"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path
+                              d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                            />
+                          </svg>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      className="d-flex mt-4"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                className="align-items-center d-flex flex-column  m-1 p-2 border"
+              >
+                <div
+                  className="card card-dimensions position-relative"
+                  style={
+                    Object {
+                      "borderColor": "pink",
+                      "borderWidth": "0.125rem",
+                    }
+                  }
+                >
+                  <div
+                    className="card-body"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "cursor": "pointer",
+                      }
+                    }
+                  >
+                    <h5
+                      className="card-title text-truncate"
+                    >
+                      Marge Innovera
+                    </h5>
+                    <h6
+                      className="card-subtitle mb-2 text-muted text-truncate"
+                    >
+                      Title: 
+                      Hardware
+                    </h6>
+                    <p
+                      className="m-0"
+                    >
+                       ID: 
+                      14
+                       
+                    </p>
+                    <div
+                      className="position-absolute top-0 btn m-0 p-0"
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "right": "0px",
+                        }
+                      }
+                    >
+                       
+                      <svg
+                        className="bi bi-x"
+                        fill="currentColor"
+                        height="16"
+                        viewBox="0 0 16 16"
+                        width="16"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="d-flex mt-4"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

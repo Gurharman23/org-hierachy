@@ -41,7 +41,7 @@ function PromoteEmployee({ employees, updateEmployee, match, ...props }) {
       setErrors({ title: "Please enter title" });
       return false;
     }
-    if (+employee.parent <= 1) {
+    if (+employee.parent < 1) {
       setErrors({ parent: "Please enter valid parent id" });
       return false;
     }

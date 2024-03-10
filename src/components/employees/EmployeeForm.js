@@ -40,7 +40,7 @@ export default function EmployeeForm({
         />
         <div className="mt-2">
           <button type="submit" className="btn btn-dark w-100">
-            Submit{" "}
+            Submit
           </button>
         </div>
       </form>
